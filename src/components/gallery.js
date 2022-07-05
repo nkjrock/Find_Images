@@ -190,7 +190,7 @@ function Gallery() {
           <section className="mb-4">
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="https://www.linkedin.com/in/jayant-kanel-669398195/"
+              href="https://www.linkedin.com/in/nikhil-jaiswal-78b4bb209/"
               role="button"
               data-mdb-ripple-color="dark"
               target="_blank"
@@ -199,7 +199,7 @@ function Gallery() {
             </a>
             <a
               className="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="https://github.com/JayantKanel"
+              href="https://github.com/nkjrock"
               role="button"
               data-mdb-ripple-color="dark"
               target="_blank"
@@ -209,13 +209,13 @@ function Gallery() {
           </section>
         </div>
         <div className="text-center text-dark p-3 section">
-          {/* Email: jayantkanel@gmail.com */}
+          {/* Email: nikjaiswal99@gmail.com */}
           <a
-            href="mailto:jayantkanel@gmail.com"
+            href="mailto:nikjaiswal99@gmail.com"
             target="_blank"
             className="text-dark"
           >
-            jayantkanel@gmail.com
+            nikjaiswal99@gmail@gmail.com
           </a>
         </div>
       </footer>
